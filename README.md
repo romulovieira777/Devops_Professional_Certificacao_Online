@@ -8,6 +8,6 @@
 - [Aula 03 - A Segunda Maneira](https://github.com/romulovieira777/Devops_Professional_Certificacao_Online/tree/main/Aula_03_A_Segunda_Maneira)
 - [Aula 04 - A Terceira Maneira](https://github.com/romulovieira777/Devops_Professional_Certificacao_Online/tree/main/Aula_04_A_Terceira_Maneira)
 - [Aula 05 - Segurança da Informação](https://github.com/romulovieira777/Devops_Professional_Certificacao_Online/tree/main/Aula_05_Seguranca_da_Informacao)
-- [Aula 06 - Simulado]()
+- [Aula 06 - Simulado](https://github.com/romulovieira777/Devops_Professional_Certificacao_Online/tree/main/Aula_06_Simulado)
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/devops-professional-certificacao-online)
